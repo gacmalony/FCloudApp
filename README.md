@@ -1,0 +1,24 @@
+THIS AMAZING APP! USING GOOGLE FIREBASE LIBRARY. BINDED WITH GOOGLE FIREBASE CONSOLE.
+
+
+WHEN ADMIN SEND NOTIFICATION ON GOOGLE FIREBASE CONSOLE, USERS WHO HAS THIS APP AND SUBSCRIBED TO JOURNAL(HOW, WITH CLICK TO BUTTON), GET NOTIFICIATION.
+
+IF YOU WANT TO USE OR TEST TO APP, YOU HAVE TO ADD YOUR google-services.json file from [GOOGLE FIREBASE](https://firebase.google.com/)
+
+
+![Screenshot 2024-01-30 163943](https://github.com/gacmalony/FCloudApp/assets/154236584/d862222e-488a-4d0c-9435-90c9aec9b1fe)
+
+
+
+![Screenshot 2024-01-30 164653](https://github.com/gacmalony/FCloudApp/assets/154236584/3f807cb0-d131-4b51-9388-6c63f6703dcf)
+
+
+
+
+![Screenshot 2024-01-30 163846](https://github.com/gacmalony/FCloudApp/assets/154236584/bb5ba96a-75fd-4724-b7f4-781358f911f2)
+
+
+
+
+THIS IS GOOGLE CONSOLE
+![Screenshot 2024-01-30 164835](https://github.com/gacmalony/FCloudApp/assets/154236584/e9f1986f-f7cc-46c0-a11a-b2917c68535e)
